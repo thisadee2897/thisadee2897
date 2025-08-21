@@ -13,4 +13,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/thisadee2897" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisadee2897&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/thisadee2897" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisadee2897&langs_count=5&title_color=f97316&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" /></a>
