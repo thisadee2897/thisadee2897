@@ -1,7 +1,7 @@
 # Thisadee Chornbulom
 
 **Flutter Developer | Mobile & Web Developer**  
-Email: thisadee.burom@gmail.com | Phone: 088-959-4528 | Line: thisadee.chornbulom | Thailand
+Thailand
 
 ## Professional Summary
 
